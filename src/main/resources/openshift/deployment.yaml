@@ -1,7 +1,7 @@
 kind: Deployment
 apiVersion: apps/v1
 metadata:
-  name: okaka2
+  name: caj-fare
   namespace: user12
   labels:
     app: caj-fare
